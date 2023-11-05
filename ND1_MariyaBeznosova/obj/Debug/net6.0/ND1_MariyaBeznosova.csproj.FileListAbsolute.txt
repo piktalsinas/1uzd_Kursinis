@@ -1,0 +1,30 @@
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.csproj.AssemblyReference.cache
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.AssemblyInfoInputs.cache
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.AssemblyInfo.cs
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.csproj.CoreCompileInputs.cache
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\bin\Debug\net6.0\ND1_MariyaBeznosova.exe
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\bin\Debug\net6.0\ND1_MariyaBeznosova.deps.json
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\bin\Debug\net6.0\ND1_MariyaBeznosova.runtimeconfig.json
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\bin\Debug\net6.0\ND1_MariyaBeznosova.dll
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\bin\Debug\net6.0\ND1_MariyaBeznosova.pdb
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.dll
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\obj\Debug\net6.0\refint\ND1_MariyaBeznosova.dll
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.pdb
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.genruntimeconfig.cache
+C:\Users\picom\Desktop\C#\ND1_MariyaBeznosova\ND1_MariyaBeznosova\obj\Debug\net6.0\ref\ND1_MariyaBeznosova.dll
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\bin\Debug\net6.0\ND1_MariyaBeznosova.exe
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\bin\Debug\net6.0\ND1_MariyaBeznosova.deps.json
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\bin\Debug\net6.0\ND1_MariyaBeznosova.runtimeconfig.json
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\bin\Debug\net6.0\ND1_MariyaBeznosova.dll
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\bin\Debug\net6.0\ND1_MariyaBeznosova.pdb
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.csproj.AssemblyReference.cache
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.GeneratedMSBuildEditorConfig.editorconfig
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.AssemblyInfoInputs.cache
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.AssemblyInfo.cs
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.csproj.CoreCompileInputs.cache
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.dll
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\obj\Debug\net6.0\refint\ND1_MariyaBeznosova.dll
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.pdb
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\obj\Debug\net6.0\ND1_MariyaBeznosova.genruntimeconfig.cache
+C:\5 semestr\Projektavimas\ND1_MariyaBeznosova\obj\Debug\net6.0\ref\ND1_MariyaBeznosova.dll
